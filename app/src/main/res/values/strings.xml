@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UserInputOrderCoffee</string>
+    <string name="CoffeeOrder">CoffeeMall</string>
 </resources>
+
