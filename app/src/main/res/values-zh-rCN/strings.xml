@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">UserInputOrderCoffee</string>
+    <string name="CoffeeOrder">咖啡商城</string>
+    <string name="hint_name">姓名</string>
+    <string name="toppings">配料</string>
+    <string name="whipped_cream">掼奶油</string>
+    <string name="chocolate">巧克力</string>
+    <string name="order_summary">订单汇总</string>
+    <string name="order">订单</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="initial_quantity">3</string>
+    <string name="initial_price">10</string>
+    <string name="total_price">总价</string>
+</resources>
